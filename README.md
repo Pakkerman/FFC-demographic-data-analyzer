@@ -1,5 +1,4 @@
-## FFC Data Analysis with Python Project - Mean-Variance-Standard Deviation Calculator
-
+## FFC Data Analysis with Python Project - Demographic Data Analyzer
 
 ### Info
   This is the completed project for FFC Analysis with Python Project course.
